@@ -1,0 +1,22 @@
+{
+  "name": "native-time-format",
+  "version": "1.0.0",
+  "description": "A plugin for time format",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flitrue/time-fromat.git"
+  },
+  "keywords": [
+    "时间格式"
+  ],
+  "author": "flitrue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flitrue/time-fromat/issues"
+  },
+  "homepage": "https://github.com/flitrue/time-fromat#readme"
+}
